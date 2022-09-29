@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://esaj.tjsp.jus.br/tjws2/services/ServicoPJ?wsdl" uri="wsdl/esaj.tjsp.jus.br/tjws2/services/ServicoPJ.wsdl"/>
+    <system systemId="https://apps.correios.com.br/SigepMasterJPA/AtendeClienteService/AtendeCliente?wsdl" uri="wsdl/apps.correios.com.br/SigepMasterJPA/AtendeClienteService/AtendeCliente.wsdl"/>
+    <system systemId="http://wwwh1.tjrj.jus.br/HMNI/Servico.svc?wsdl" uri="wsdl/wwwh1.tjrj.jus.br/HMNI/Servico.svc.wsdl"/>
+    <system systemId="http://wwwh1.tjrj.jus.br/HMNI/Servico.svc?xsd=xsd0" uri="wsdl/wwwh1.tjrj.jus.br/HMNI/Servico.svc.xsd_xsd0.xsd"/>
+    <system systemId="http://wwwh1.tjrj.jus.br/HMNI/Servico.svc?xsd=xsd1" uri="wsdl/wwwh1.tjrj.jus.br/HMNI/Servico.svc.xsd_xsd1.xsd"/>
+    <system systemId="http://wwwh1.tjrj.jus.br/HMNI/Servico.svc?xsd=xsd2" uri="wsdl/wwwh1.tjrj.jus.br/HMNI/Servico.svc.xsd_xsd2.xsd"/>
+    <system systemId="http://www.protesto.com.br/cra/webservice/protesto.php?wsdl" uri="wsdl/www.protesto.com.br/cra/webservice/protesto.php.wsdl"/>
+</catalog>
