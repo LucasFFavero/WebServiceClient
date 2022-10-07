@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: br.unesp.rc.webservicesoap.service.FisicaServiceTest
 -------------------------------------------------------------------------------
-Tests run: 5, Failures: 0, Errors: 0, Skipped: 5, Time elapsed: 5.5 s - in br.unesp.rc.webservicesoap.service.FisicaServiceTest
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 5, Time elapsed: 5.391 s - in br.unesp.rc.webservicesoap.service.FisicaServiceTest
